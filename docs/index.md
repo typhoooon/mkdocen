@@ -14,6 +14,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-		enarticle.md
+		en02.md
 		en04.md
+		en05.md
         ...       # Other markdown pages, images and other files.
